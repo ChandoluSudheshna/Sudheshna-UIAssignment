@@ -1,4 +1,4 @@
-# Retailer Rewards Program - Frontend
+# Retailer Rewards Program
 
 ## Description
 
