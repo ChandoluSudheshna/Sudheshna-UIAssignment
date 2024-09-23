@@ -12,7 +12,6 @@ This React application calculates and displays reward points earned by customers
 ### Prerequisites
 
 - Node.js and npm installed on your machine.
-- The backend server running on `http://localhost:5000` as per [Backend Setup](../../server.js).
 
 ### Setup
 
